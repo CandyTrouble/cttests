@@ -6,3 +6,19 @@ body {
 a {
 	cursor: pointer;
 }
+
+.center-block {
+	width: 50%
+	margin: 0 auto;
+} 
+.center-table {
+	display: table;
+	height: 250px;
+	width: 240px;
+}
+
+.center-table p{
+	display: table-cell;
+	padding: 20px;
+	vertical-align: middle;
+}
