@@ -3,3 +3,6 @@ setTimeout("parent.location.href='https://45.media.tumblr.com/e6f63eafbff6ddc75e
 }
 
 alert('Candy Trouble was hacked your computer');
+
+document.write("Niksior moim panem jest ♥") 
+	for (n = 1; n <= 500; ++n)
