@@ -5,7 +5,7 @@ setTimeout("parent.location.href='https://45.media.tumblr.com/e6f63eafbff6ddc75e
 alert('Candy Trouble was hacked your computer');
 
 function nazwa_mojej_funkcji ({
-	for (n = 1; n <= 500; ++n) {
+	for (var n = 0; n < 500; n++) {
 		document.write("Niksior moim panem jest ♥");
 	}
 })
