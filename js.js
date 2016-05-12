@@ -8,9 +8,9 @@ function nazwa_mojej_funkcji() {
 	for (var n = 0; n < 500; n++) {
 		document.write("Niksior moim panem jest ♥");
 		document.write("<br></br>");
-		
+
 	}
-})
+}
 
  
 
