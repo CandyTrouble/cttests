@@ -13,12 +13,12 @@ a {
 } 
 .center-table {
 	display: table;
-	height: 250px;
-	width: 240px;
+	height: 350px;
+	width: 300px;
 }
 
 .center-table p{
 	display: table-cell;
-	padding: 20px;
+	padding: 50px;
 	vertical-align: middle;
 }
